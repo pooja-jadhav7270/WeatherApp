@@ -1,7 +1,7 @@
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import { BiSearch } from "react-icons/bi";
-import "./searchBox.css";
+import "./SearchBox.css";
 import { useState } from 'react';
 
 export default function SearchBox({updateInfo}){
